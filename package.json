@@ -1,0 +1,13 @@
+{
+  "name": "web-pokemon-canisorn",
+  "version": "1.0.0",
+  "description": "Todo mvc with ugly structure.",
+  "author": "Tanawat Tassana",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  },
+  "scripts": {
+    "start": "node_modules/.bin/http-server"
+  }
+}
