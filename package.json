@@ -18,8 +18,5 @@
   "homepage": "https://github.com/canisorn/web-pokemon#readme",
   "devDependencies": {
     "http-server": "^0.9.0"
-  },
-   "scripts": {
-    "start": "node_modules/.bin/http-server"
   }
 }
