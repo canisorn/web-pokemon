@@ -2,7 +2,7 @@ import {sayHi} from './function'
 const name = "Joy Canisorn Test2"
 console.log(sayHi(name))
 
-$('#homeMenu').html("My Home");
+$('#homeMenu').html("HomeTest");
 
 import axios from 'axios'
 const batmanUrl = 'http://www.omdbapi.com/?t=Batman&y=&plot=short&r=json'
