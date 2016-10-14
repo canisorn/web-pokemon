@@ -1,4 +1,4 @@
-import {sayHi} from './function'
+﻿import {sayHi} from './function'
 const name = "Joy Canisorn Test2"
 console.log(sayHi(name))
 

@@ -1,4 +1,4 @@
-var webpack = require('webpack');
+﻿var webpack = require('webpack');
 var path = require('path');
 
 var config = {
@@ -7,7 +7,7 @@ var config = {
     },
     module: {
         loaders: [
-            {//����Ѻ�ء������� .js
+            {//ใช้ได้กับทุกไฟล์ที่เป็น .js
                 test: /\.js$/,  
                 include: path.join(__dirname, 'src/js'),
                 loader: 'babel-loader',
